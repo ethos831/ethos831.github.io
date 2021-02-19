@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-18T23:55:46.996Z</updated>
+  <updated>2021-02-19T00:07:00.626Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>《社会契约论》读书笔记</title>
+    <title>《社会契约论》思维导图</title>
     <link href="http://example.com/2021/02/19/SocialContract/"/>
     <id>http://example.com/2021/02/19/SocialContract/</id>
     <published>2021-02-18T21:17:57.000Z</published>
-    <updated>2021-02-18T23:55:46.996Z</updated>
+    <updated>2021-02-19T00:07:00.626Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text/javascript&quot;</summary>
+    <summary type="html">
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;embed src=&quot;pdf/SocialContract.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
+	&lt;/div&gt;
+
+
+&lt;script</summary>
         
       
     
