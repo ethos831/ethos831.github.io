@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Maverick_Ethos</title>
+  
+  <subtitle>密涅瓦的猫头鹰在黄昏中起飞。</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-03-16T10:41:06.943Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Ethos</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《 The Ticklish Subject 》</title>
+    <link href="http://example.com/2021/03/16/post/"/>
+    <id>http://example.com/2021/03/16/post/</id>
+    <published>2021-03-16T05:20:16.000Z</published>
+    <updated>2021-03-16T10:41:06.943Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/03/16/post/TicklishSubject.jpg&quot; alt=&quot;Book&quot;&gt;&lt;/p&gt;
+&lt;script type=&quot;text/javascript&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="哲学" scheme="http://example.com/categories/%E5%93%B2%E5%AD%A6/"/>
+    
+    
+    <category term="政治哲学" scheme="http://example.com/tags/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6/"/>
+    
+    <category term="齐泽克" scheme="http://example.com/tags/%E9%BD%90%E6%B3%BD%E5%85%8B/"/>
+    
+  </entry>
+  
+</feed>
